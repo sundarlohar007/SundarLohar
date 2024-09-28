@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Automation, API Testing, Coding**
 
-- 💬 Ask me about **JIRA, Bug life cycle, SDLC/STLC, And oobviously about Video Games xD**
+- 💬 Ask me about **JIRA, Bug life cycle, SDLC/STLC, And obviously about Video Games xD**
 
 - 📫 How to reach me **sundarlohar007@gmail.com**
 
